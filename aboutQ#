@@ -2,10 +2,12 @@ Q# is programming langugae used by quantum computing that released by Microsoft
 you can coding from dotnet-framework and visual studio
 
 
-how can I  setting 
+how can I setting 
 
 case of dotnet
-
+download dotnet https://dotnet.microsoft.com/ja-jp/download
+then install Q# library
+dotnet new -i Microsoft.Quantum.ProjectTemplates
 
 
 
